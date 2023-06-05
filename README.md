@@ -8,7 +8,7 @@ Functions2.py, arms6.py and arm8.py contain the main algorithms.
 * arms8.py contains the RGD algorithm for robotic arms, which does use arc lenght initialization.
 
 Then we have some other files which perform the alogirithm and/or plot some results.
-* rotation_in_2d.py is a simple script to rotate a vector in 2d. This one is friendly to get an understand of the basic code.
+* rotation_in_2d.py is a simple script to rotate a vector in 2d. This one is beginners friendly to get an basic understanding of the code.
 * testing_vectors_in_2d.py is a script which test the performance of the vector-rotation algorithm in 2d for different instances.
 * rotation_eigh_2d.py is a script which rotate a eight figure to rotated but perturbed version of itself.
 * sim_different_dimensions.py tests the basic RGD algorithm in different dimensions.
