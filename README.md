@@ -9,12 +9,12 @@ arms8.py contains the RGD algorithm for robotic arms, which does use arc lenght 
 
 Then we have some other files which perform the alogirithm and/or plot some results
 \begin{itemize}
-rotation_in_2d.py is a simple script to rotate a vector in 2d. This one is friendly to get an understand of the basic code
-testing_vectors_in_2d.py is a script which test the performance of the vector-rotation algorithm in 2d for different instances
-rotation_eigh_2d.py is a script which rotate a eight figure to rotated but perturbed version of itself
-sim_different_dimensions.py tests the basic RGD algorithm in different dimensions
-sim_different_learning_rates.py tests the basic RGD algorithm for different learning rates, this outputs a file which can be read by plotting_learning_rate_sim.py
-plotting_learning_rate_sim.py plots the results obtained by running sim_different_learning_rates.py
-arms6_main.py executes the RGD for the robotic arm (without arc length initialization)
+\item rotation_in_2d.py is a simple script to rotate a vector in 2d. This one is friendly to get an understand of the basic code
+\item testing_vectors_in_2d.py is a script which test the performance of the vector-rotation algorithm in 2d for different instances
+\item rotation_eigh_2d.py is a script which rotate a eight figure to rotated but perturbed version of itself
+\item sim_different_dimensions.py tests the basic RGD algorithm in different dimensions
+\item sim_different_learning_rates.py tests the basic RGD algorithm for different learning rates, this outputs a file which can be read by plotting_learning_rate_sim.py
+\item plotting_learning_rate_sim.py plots the results obtained by running sim_different_learning_rates.py
+\item arms6_main.py executes the RGD for the robotic arm (without arc length initialization)
 \end{itemize}
 
